@@ -1,0 +1,93 @@
+Location,Address,Resolved Address,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow Depth,Wind Speed,Wind Gust,Cloud Cover,Relative Humidity,Conditions
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/01/2019,92.7,71.9,82.5,,96,,,12.2,,25.8,61.86,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/02/2019,91,72.9,82.1,,96.5,,,10.6,,47.4,68.45,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/03/2019,90.5,73.2,81.3,,95.2,0.2,,7.2,,74.8,70.86,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/04/2019,88.8,71.6,76.7,,96.3,0.2,,16,31.2,77.5,83.09,"Rain, Overcast"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/05/2019,89.9,71.7,80.5,,98.1,,,11.1,,64.7,76.01,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/06/2019,91.9,71.7,79.8,,98,0.1,,9.8,31.1,55.7,74.27,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/07/2019,92.5,74.8,80.5,,102,0.4,,8.8,34.4,84.7,77.6,"Rain, Overcast"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/08/2019,92.7,73.8,83.3,,100.7,,,10.3,,46.8,70.1,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/09/2019,94.8,75.4,84.9,,101.3,,,6.8,,37.5,62.39,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/10/2019,91.2,74.7,81.9,,98.4,,,10.2,,50.3,73.17,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/11/2019,93.4,74.1,82.7,,102.3,,,10.3,,43,71.38,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/12/2019,91.7,72.9,82.7,,95.7,,,9.8,,26.4,67.07,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/13/2019,93.4,74.8,82.4,,99.8,,,14.3,,37.9,69.99,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/14/2019,86.1,73.7,78.7,,90,,,9.1,,40.9,79.03,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/15/2019,85.6,72.2,77.3,,90.3,,,12.9,,42.4,79.37,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/16/2019,90.8,75.8,81.4,,96.1,,,18.2,32.2,40.9,69.86,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/17/2019,89.3,75.5,81.1,,99.5,,,14.2,,40.9,77.76,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/18/2019,89.5,72.6,78.9,,99.3,0.2,,14.3,29.8,40.9,81.45,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/19/2019,93.8,73.2,83.6,,101.6,,,9.2,,34.2,71.96,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/20/2019,93.8,74.4,83.5,,101.5,0.5,,18.6,37.8,30.9,71.46,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/21/2019,87.9,71.7,78.9,,97,0.1,,9.6,,34.1,82.03,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/22/2019,89.3,71.8,78.3,,97.9,2.4,,13.7,,39,84.57,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/23/2019,82.3,67.3,73.6,,82,0.2,,15.9,,35.9,67.81,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/24/2019,83,60.5,72.6,,82.2,,,12.1,,6.2,60.92,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/25/2019,85.6,58.7,73.2,,83.5,,,7.5,,6.8,61.6,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/26/2019,89,63.2,76.6,,87.5,,,7.4,,17.2,62.15,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/27/2019,90.8,65.2,78.5,,90.7,,,9.5,,15.7,65.58,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/28/2019,91.6,68,80.3,,92.4,,,9.1,,16.8,64.3,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/29/2019,91.6,68.4,80.5,,92.6,,,12.7,,21.7,64.38,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/30/2019,89.5,72.2,78.6,,93,0.7,,11.5,,41.3,74.97,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",07/31/2019,89.4,68.8,79.2,,91.6,,,9.6,,25,70.17,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/01/2019,90.4,69.5,79.9,,93.3,,,11.4,,27.2,65.08,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/02/2019,90.2,68.9,79.1,,93.3,0.9,,8.5,48.3,22.9,70.14,"Rain, Clear"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/03/2019,90.2,70.2,77.9,,93.9,0.1,,8.8,,24.6,75.96,"Rain, Clear"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/04/2019,87.5,69.9,74.7,,94.5,0.6,,14.4,,32,83.6,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/05/2019,89.7,67,77.5,,90.1,,,6.3,,18.1,71.68,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/06/2019,91.2,68.4,78.6,,95.5,0.5,,10.8,44,35.3,71.97,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/07/2019,88.5,66.4,77.8,,96,,,10.6,,38.7,76.51,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/08/2019,86.8,72.2,79.3,,92.6,,,5.8,,36.5,76.59,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/09/2019,88.6,75.9,81.4,,95.8,,,11.5,,40.8,75.51,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/10/2019,92,75.9,82.6,,96.5,,,10.1,,35,70.32,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/11/2019,91.6,67.7,79.8,,91.8,,,8.3,,21.6,66.47,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/12/2019,93.9,67.7,81.6,,101.4,,,7.7,,23.8,69.63,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/13/2019,96.5,75,82.1,,111,1.4,,15.5,33.1,30.3,79.05,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/14/2019,90.2,72.8,81,,93.4,,,10.6,,30.9,69.95,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/15/2019,90.1,67.3,78,,91,0.1,,11.7,,15.7,67.68,"Rain, Clear"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/16/2019,89.4,64.6,77.4,,91,,,6.2,,19.2,68.51,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/17/2019,92.8,69.8,81.1,,96.8,,,7.9,,19.3,69.19,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/18/2019,95,69.9,82.4,,97.4,,,9.3,,19.9,66.38,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/19/2019,95.4,72.6,84.2,,100.6,,,6.2,,20.9,63.98,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/20/2019,93.5,73.4,81.6,,101.9,,,15.3,31.1,28.8,72.65,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/21/2019,94.7,71.1,82.6,,101.7,,,8,,23.2,69.88,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/22/2019,89.4,72.2,80.1,,94.9,0.2,,9.1,,31.9,76.62,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/23/2019,87.9,72.2,78.1,,93.7,,,10.8,,38,80.41,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/24/2019,83.8,70,75.9,,87.1,,,8.8,,41.1,71.86,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/25/2019,83.6,70.2,75.3,,88.9,0.7,,12.9,,41.9,81.35,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/26/2019,75.4,69.9,73,,,0.3,,13.1,,39.8,85.97,"Rain, Partially cloudy"
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/27/2019,86.4,72.2,77.7,,92.4,,,10.8,,40,80.21,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/28/2019,86,65.8,75.8,,85.6,,,13.4,,8,66.82,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/29/2019,84.9,57.5,71.7,,84,,,7.9,,6,66.92,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/30/2019,90,62,75.5,,88.2,,,7.8,,21.5,65.03,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",08/31/2019,90.3,64.6,77.4,,90.9,,,8.6,,22.2,65.52,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/01/2019,90.7,67.9,78.5,,94.8,,,10.9,,26.3,70.51,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/02/2019,91.7,69.1,79.6,,95.2,,,10.1,,14.2,70.36,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/03/2019,92.4,67.3,79.4,,93.8,,,8.2,,4,66.5,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/04/2019,95,67.3,81.1,,101.4,,,10.5,,13.8,69.01,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/05/2019,86.1,65.4,75.9,,85.6,,,13,,5.3,63,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/06/2019,91.3,62.1,77.2,,95.1,,,12.5,,9.4,64.64,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/07/2019,86.1,66.6,76.8,,86.1,,,9.9,,18.2,65.19,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/08/2019,88.3,62.6,75.6,,87.7,,,9.4,,10.8,63.97,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/09/2019,93.2,66.4,79,,94.4,,,11.8,,21.5,62.35,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/10/2019,97.3,70.1,80.4,,100.9,,,14,33.3,16.6,66,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/11/2019,95.8,70.3,82,,99.5,,,7.8,,23,66.89,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/12/2019,95.4,70.6,83.1,,99.6,,,6.5,,11.7,65.33,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/13/2019,96.8,72.4,84.2,,101.4,,,9.8,,24.6,63.79,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/14/2019,92.8,73.4,82.2,,95,,,11.4,,35.8,54.27,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/15/2019,96,65.8,81,,99.6,,,7.8,,28.1,58.08,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/16/2019,97.8,70.5,83.9,,98.3,,,7.9,,11.6,56.46,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/17/2019,94.9,72.7,83.4,,97.1,,,14.2,,24,57.02,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/18/2019,93.1,67.8,80.4,,93.4,,,9.6,,5.6,58.33,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/19/2019,90.7,68.9,79.2,,92.2,,,12.7,,16.2,60.07,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/20/2019,87.9,70.9,78.8,,87.3,,,13.1,,27.5,49.78,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/21/2019,90.6,66.4,78,,87.7,,,9.5,,16.7,48.84,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/22/2019,90.2,63.3,76.9,,87.9,,,14.9,,20.7,52.69,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/23/2019,86.2,69.8,77.6,,89.7,,,7.7,,38,61.8,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/24/2019,83,61.6,72.1,,80.8,,,10.6,,18.3,50.79,Clear
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/25/2019,89.8,57.8,73.1,,92.1,,,10.4,,33,65.25,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/26/2019,79.3,67.8,73.7,,,,,8.5,,33.9,82.46,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/27/2019,94.5,65.8,79.4,,96.1,,,12.3,,25.6,67.36,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/28/2019,92.4,72.5,82,,93.3,,,10.3,,31.9,58.39,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/29/2019,95.4,69.1,81.7,,97.5,,,7.2,,28.4,62.32,Partially cloudy
+Vanderbilt University,"2201 West End Ave, Nashville, TN 37203, United States","2201 West End Ave, Nashville, TN 37203, United States",09/30/2019,96.6,70.3,82.2,,99,,,7.4,,22.3,63.61,Clear
